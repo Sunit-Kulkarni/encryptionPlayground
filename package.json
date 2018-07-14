@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sunit-Kulkarni/encryptionPlayground/issues"
   },
-  "homepage": "https://github.com/Sunit-Kulkarni/encryptionPlayground#readme"
+  "homepage": "https://github.com/Sunit-Kulkarni/encryptionPlayground#readme",
+  "dependencies": {
+    "openpgp": "^3.0.13"
+  }
 }
