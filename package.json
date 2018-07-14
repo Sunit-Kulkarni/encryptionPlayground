@@ -1,0 +1,19 @@
+{
+  "name": "encryptionplayground",
+  "version": "1.0.0",
+  "description": "Getting Familiar with OpenPGP encryption protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunit-Kulkarni/encryptionPlayground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunit-Kulkarni/encryptionPlayground/issues"
+  },
+  "homepage": "https://github.com/Sunit-Kulkarni/encryptionPlayground#readme"
+}
